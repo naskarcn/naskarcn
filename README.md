@@ -53,6 +53,8 @@
 
 <img  src="https://img.icons8.com/color/26/000000/javascript.png"  hspace="5"  align="left"/>
 
+<img src="https://img.icons8.com/color/26/000000/typescript.png"  hspace="5"  align="left"/>
+
 <img  src="https://img.icons8.com/color/26/000000/vue-js.png"  hspace="5"  align="left"/>
 
 <img  src="https://img.icons8.com/color/26/000000/angularjs.png"  hspace="5"  align="left"/>
